@@ -1,4 +1,35 @@
-### Hi there 👋
+# 📓 Mykyta Pomelov
+
+**`Beginner Game Developer (Student/GameDeveloper/WebDeveloper)`**
+
+I'm a student at a technical college in Poland. I am coding and making games as a hobby. Love playing and discussing games, game ideas and theory. Speaking Ukrainian, Russian, Polish and English languages.
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="UNITY" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<img align="left" alt="CSHARP" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="MYSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<br>
+<br>
+
+---
+
+### 🕹️ My games
+[Last Explorer](https://milky-nik.itch.io/last-explorer-space-shooter)|  [Dark Bunker](https://milky-nik.itch.io/dark-bunker) | [NoNameProject](https://milky-nik.itch.io/android-3d-thirdperson-survival)
+:-------------------------:|:-------------------------:|:-------------------------:
+[<img align="left" width="300px" src="https://img.itch.zone/aW1hZ2UvMTExMTExMi82NTU5NTkzLnBuZw==/347x500/x%2B9hWd.png" width="350">](https://milky-nik.itch.io/last-explorer-space-shooter)  |  [<img align="right" width="250px" src="https://img.itch.zone/aW1hZ2UvNzI1ODAwLzQwMjczNzUucG5n/347x500/WYRgNB.png" width="350">](https://milky-nik.itch.io/dark-bunker) | [<img align="right" width="350px" src="https://img.itch.zone/aW1hZ2UvODg3OTA5LzUxNDA1MTcucG5n/original/Imjtmd.png" width="350">](https://milky-nik.itch.io/android-3d-thirdperson-survival)
+
+---
+
+<details>
+ <summary><h3>🌱 About me</h3></summary>
+I'm a final year student at a technical college in Poland, where I am studying Administration and operation of computer systems, peripherals and local computer networks, creation and administration of websites, internet applications and databases. I started coding and building projects with Unity Game Engine in 2020 with tutorials about how to make a game. Furthermore, I made my first game and wasn't satisfied, but was excited to start over, try new things, follow tutorials and making more new things, animations, drawing, UI and, of course, programming algorithms. I wanted to learn more and graduated from the C# course, where I learn about .NET and a lot of useful programming knowledge. But my journey didn't over yet, and I want to learn more and more every day.
+  
+
 
 <!--
 **Milky-Nik/Milky-Nik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
