@@ -8,7 +8,7 @@ I'm a student at a technical college in Poland. I am coding and making games as 
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="UNITY" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<img align="left" alt="UNITY" width="40px" style="padding-right:10px;" src="https://img.icons8.com/ios-filled/512/unity.png" />
 <img align="left" alt="CSHARP" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -19,7 +19,7 @@ I'm a student at a technical college in Poland. I am coding and making games as 
 ---
 
 ### 🕹️ My games
-[Last Explorer](https://milky-nik.itch.io/last-explorer-space-shooter)|  [Dark Bunker](https://milky-nik.itch.io/dark-bunker) | [NoNameProject](https://milky-nik.itch.io/android-3d-thirdperson-survival)
+[Last Explorer](https://milky-nik.itch.io/last-explorer-space-shooter)|  [Dark Bunker](https://milky-nik.itch.io/dark-bunker) | [AndroidGame](https://milky-nik.itch.io/android-3d-thirdperson-survival)
 :-------------------------:|:-------------------------:|:-------------------------:
 [<img align="left" width="300px" src="https://img.itch.zone/aW1hZ2UvMTExMTExMi82NTU5NTkzLnBuZw==/347x500/x%2B9hWd.png" width="350">](https://milky-nik.itch.io/last-explorer-space-shooter)  |  [<img align="right" width="250px" src="https://img.itch.zone/aW1hZ2UvNzI1ODAwLzQwMjczNzUucG5n/347x500/WYRgNB.png" width="350">](https://milky-nik.itch.io/dark-bunker) | [<img align="right" width="350px" src="https://img.itch.zone/aW1hZ2UvODg3OTA5LzUxNDA1MTcucG5n/original/Imjtmd.png" width="350">](https://milky-nik.itch.io/android-3d-thirdperson-survival)
 
