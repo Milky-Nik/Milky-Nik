@@ -25,6 +25,12 @@ I'm a student at a technical college in Poland. I am coding and making games as 
 
 ---
 
+### 🚀 Contact / Socials
+✉️ E-Mail: pomelov.nikita29@gmail.com <br>
+<img width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"> Instagram: https://www.instagram.com/frombasementwithlove/ <br>
+<img width="20px" src="https://static.itch.io/images/itchio-textless-white.svg"> Itch.io: https://milky-nik.itch.io
+
+
 <details>
  <summary><h3>🌱 About me</h3></summary>
 I'm a final year student at a technical college in Poland, where I am studying Administration and operation of computer systems, peripherals and local computer networks, creation and administration of websites, internet applications and databases. I started coding and building projects with Unity Game Engine in 2020 with tutorials about how to make a game. Furthermore, I made my first game and wasn't satisfied, but was excited to start over, try new things, follow tutorials and making more new things, animations, drawing, UI and, of course, programming algorithms. I wanted to learn more and graduated from the C# course, where I learn about .NET and a lot of useful programming knowledge. But my journey didn't over yet, and I want to learn more and more every day.
