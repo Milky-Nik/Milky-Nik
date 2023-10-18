@@ -2,7 +2,7 @@
 
 **`Beginner Game Developer (Student/GameDeveloper/WebDeveloper)`**
 
-I'm a student at a technical college in Poland. I am coding and making games as a hobby. Love playing and discussing games, game ideas and theory. Speaking Ukrainian, Russian, Polish and English languages.
+I'm a student at a WSB Merito as a programmer in Poland. I am coding and making games as a hobby. Love playing and discussing games, game ideas and theory. Speaking Ukrainian, Russian, Polish and English languages.
 
 ---
 
