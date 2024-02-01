@@ -26,7 +26,7 @@ I'm love every aspect of game development from coding to art and doing this as a
 ---
 
 ### 🚀 Contact / Socials
-✉️ E-Mail: pomelov.nikita29@gmail.com <br>
+✉️ E-Mail: p.mykyta@proton.me <br>
 <img width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"> Instagram: https://www.instagram.com/frombasementwithlove/ <br>
 <img width="20px" src="https://static.itch.io/images/itchio-textless-white.svg"> Itch.io: https://milky-nik.itch.io
 
