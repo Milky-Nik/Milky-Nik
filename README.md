@@ -2,7 +2,7 @@
 
 **`Beginner Game Developer (Student/GameDeveloper/WebDeveloper)`**
 
-I'm a student at a WSB Merito as a programmer in Poland. I am coding and making games as a hobby. Love playing and discussing games, game ideas and theory. Speaking Ukrainian, Russian, Polish and English languages.
+I'm love every aspect of game development from coding to art and doing this as a hobby. Love playing and discussing games, game ideas and theory. Speaking Ukrainian, Russian, Polish and English languages.
 
 ---
 
@@ -33,8 +33,8 @@ I'm a student at a WSB Merito as a programmer in Poland. I am coding and making 
 
 <details>
  <summary><h3>🌱 About me</h3></summary>
-I'm a first year student in WSB Merito University in Poland, where I am studying Programming in C#, but also Administration and operation of computer systems, peripherals and local computer networks, creation and administration of websites, internet applications and databases. I started coding and building projects with Unity Game Engine in 2020 with tutorials about how to make a game. Furthermore, I made my first game and wasn't satisfied, but was excited to start over, try new things, follow tutorials and making more new things, animations, drawing, UI and, of course, programming algorithms. I wanted to learn more and graduated from the C# course, where I learn about .NET and a lot of useful programming knowledge.
-Now i am switched to Godot Game Engine where i using C# and learning game development even further!
+I started coding and building projects with Unity Game Engine in 2020 with tutorials about how to make a game. Furthermore, I made my first game and wasn't satisfied, but was excited to start over, try new things, follow tutorials and making more new things, animations, drawing, UI and, of course, programming algorithms. I wanted to learn more and completed the C# course, where I learn about .NET and a lot of useful programming knowledge.
+I tried to switch to Godot Game Engine where i was using C# and learning game development even further, but i continued my work in Unreal Engine, which i still learning. At the same time i started to learn drawing, 3d modeling and pixel art.
 
 
 <!--
